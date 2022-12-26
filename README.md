@@ -6,8 +6,8 @@
 
 ## Deskripsi Umum
 Algoritma Dari Program Ini:
-1. User menginput baris pada Array dengan range 1-20.
-2. User menginput baris dan kolom pada array 2 dimensi dengan range 1-20.
+1. User menginput baris pada array 2 dimensi .
+2. User menginput kolom pada array 2 dimensi .
 3. User menginput isi dari array 2 dimensi.
 4. Menampilkan output sesuai urutan matriks.
 5. Nilai divalidasi apakah nilai habis dibagi 3,5 dan 7.
